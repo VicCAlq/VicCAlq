@@ -33,9 +33,9 @@
 </div>
 
 <div align="left" style="display: inline_block"><br>
-  <a href="https://github.com/VicMCA">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=VicMCA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="335em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMCA&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/VicCAlq">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=VicCAlq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="335em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicCAlq&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="left">
@@ -45,8 +45,8 @@
   
 <div align="right" style="display: inline_block">
   <h3>Contact Info</h3>
-  <a href="mailto:victor.mcavalcanti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/victormcavalcanti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:victor.mca.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victor-mcavalcanti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>  
 <!---
 
